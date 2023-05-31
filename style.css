@@ -1,0 +1,11 @@
+html {
+    box-sizing: border-box;
+    /* makes it so there isn't a scroll bar */
+}
+
+body {
+    margin:0;
+    min-height: 100vh;
+    /* viewport height- full height of the entire window */
+}
+
